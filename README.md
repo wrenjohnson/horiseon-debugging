@@ -5,6 +5,9 @@ I used the languages HTML and CSS along with Git Bash and VSCode to complete thi
 
 This website contains a reactive navigation bar to make it easier to find the information provided.
 
-A link to your deployed app on GitHub Pages. After we complete Project 1, you will need to provide a link to either a video of how your app works or the deployed link to another cloud provider called heroku
+https://wrenjohnson.github.io/module-1/
 
-A few screenshots of how the app looks in action
+you will need to provide a link to either a video of how your app works or the deployed link to another cloud provider called heroku
+<img width="1262" alt="Screenshot 2023-06-01 220353" src="https://github.com/wrenjohnson/module-1/assets/134176077/112ea9aa-f9a2-40ba-8ca4-d862064e8d6b">
+<img width="1265" alt="Screenshot 2023-06-01 220440" src="https://github.com/wrenjohnson/module-1/assets/134176077/10cf72bf-3644-4041-ac19-e97fc5185133">
+
