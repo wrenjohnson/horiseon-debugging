@@ -5,7 +5,7 @@ I used the languages HTML and CSS along with Git Bash and VSCode to complete thi
 
 This website contains a reactive navigation bar to make it easier to find the information provided.
 
-https://wrenjohnson.github.io/module-1/
+https://github.com/wrenjohnson/horiseon-debugging
 
 (https://vimeo.com/832769299?share=copy)
 
